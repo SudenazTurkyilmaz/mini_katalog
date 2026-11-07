@@ -19,4 +19,4 @@ Dart 3.13.7
 ![Ürün listesi](screenshots/home.png)
 ![Ürün detayı](screenshots/product_detail.png)
 ![Sepet](screenshots/cart.png)
-![Arama](screenshotd/search.png)
+![Arama](screenshots/search.png)
