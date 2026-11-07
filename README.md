@@ -15,8 +15,13 @@ Dart 3.13.7
 
 ## Ekran görüntüleri
 
+<h3>Giriş Ekranı</h3>
 <img src="screenshots/login.png" alt="Giriş ekranı" width="300">
+<h3>Ürün listesi</h3>
 <img src="screenshots/home.png" alt="Ürün listesi" width="300">
+<h3>Ürün detayı</h3>
 <img src="screenshots/product_detail.png" alt="Ürün detayı" width="300">
+<h3>Sepet</h3>
 <img src="screenshots/cart.png" alt="Sepet" width="300">
+<h3>Arama</h3>
 <img src="screenshots/search.png" alt="Arama" width="300">
